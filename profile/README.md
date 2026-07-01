@@ -43,3 +43,7 @@ Hi-Storia works at the intersection of cultural heritage education, accessibilit
 - Website: https://www.hi-storia.it
 - GitHub organization: https://github.com/hi-Storia
 - Schola Fabra: https://www.scholafabra.com
+
+## Hi-Storia in action
+
+![Students from Vernier College in Nice and teachers from the Coalcit Association in Nice in front of the Hi-Storia interactive display depicting the Roman arena at Cimiez](images/hi-storia-nizza.jpg)
