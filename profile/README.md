@@ -32,6 +32,7 @@ Over the years, Hi-Storia has helped schools, associations, museums and local co
 It combines digital fabrication, 3D printing, open-source software, capacitive electronics, storytelling and accessibility to help students explore, document and share cultural heritage through hands-on service learning activities.
 
 Hi-Storia works at the intersection of cultural heritage education, accessibility, open-source technology and digital craftsmanship: schools do not only use technology, they build public cultural tools together with their communities.
+![Students from Vernier College in Nice and teachers from the Coalcit Association in Nice in front of the Hi-Storia interactive display depicting the Roman arena at Cimiez](images/hi-storia-nizza.jpg)
 
 ## Related projects
 
@@ -43,7 +44,3 @@ Hi-Storia works at the intersection of cultural heritage education, accessibilit
 - Website: https://www.hi-storia.it
 - GitHub organization: https://github.com/hi-Storia
 - Schola Fabra: https://www.scholafabra.com
-
-## Hi-Storia in action
-
-![Students from Vernier College in Nice and teachers from the Coalcit Association in Nice in front of the Hi-Storia interactive display depicting the Roman arena at Cimiez](images/hi-storia-nizza.jpg)
