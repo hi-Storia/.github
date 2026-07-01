@@ -23,11 +23,15 @@ The goal is to make tactile audio guides easier to build, cheaper to deploy, and
 
 ## What is Hi-Storia?
 
-Hi-Storia is an educational and cultural heritage project based in Italy.
+## What is Hi-Storia?
 
-It combines digital fabrication, 3D printing, open-source software, capacitive electronics, storytelling and accessibility to help students create tactile audio guides for museums, monuments and local heritage sites.
+Hi-Storia is an educational and cultural heritage project based in Italy, active since 2014.
 
-Hi-Storia works at the intersection of cultural heritage education, accessibility, service learning, open-source technology and digital craftsmanship.
+Over the years, Hi-Storia has helped schools, associations, museums and local communities create around fifty tactile audio-guide devices, mainly in Italy and also through European projects and interventions, including in Nice, France (see https://www.hi-storia.it/nizza/ ).
+
+It combines digital fabrication, 3D printing, open-source software, capacitive electronics, storytelling and accessibility to help students explore, document and share cultural heritage through hands-on service learning activities.
+
+Hi-Storia works at the intersection of cultural heritage education, accessibility, open-source technology and digital craftsmanship: schools do not only use technology, they build public cultural tools together with their communities.
 
 ## Related projects
 
